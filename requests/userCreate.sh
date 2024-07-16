@@ -1,0 +1,1 @@
+# curl -X POST /users -H "Content-type:application/json" -d '{"userFirstName":"Yashas","userLastName":"Jayshankar","userId":"01","role":"admin"}'
